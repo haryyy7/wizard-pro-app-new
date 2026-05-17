@@ -104,7 +104,8 @@ Then open `http://localhost:3000`.
 
 ## 📸 Screenshots
 
-> *(Add screenshots here after deploying)*
+<img width="2860" height="8880" alt="image" src="https://github.com/user-attachments/assets/26f87c6d-958a-4a97-87d4-e57fc736923a" />
+
 
 ---
 
