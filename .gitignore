@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Source / backup files
+morty-app-source-code.html
+
+# Node (if a dev server is ever added)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Build output (if a bundler is ever added)
+dist/
+build/
